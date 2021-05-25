@@ -1,0 +1,20 @@
+{
+    "bot_setup": {
+        "prefix": ".",
+        "token": "",
+        "main_embed_color": "#c88e38",
+        "debug_mode": true
+    },
+
+    "module_toggles": {
+        "utility_commands": true
+    },
+
+    "roles": {
+        "admin": "820047908383883315"
+    },
+
+    "channel_setup": {
+        "news_channel": "820047908765302789"
+    }
+}
